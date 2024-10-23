@@ -4,7 +4,7 @@
 
 <br>
 
-My primary interests revolve around `Open Source` and `Modern technologies`.
+My primary interests revolve around `Web Servers` and `Frontend animation`.
 <br> <br>
 
 ## <picture> <img src = "./public/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
@@ -22,10 +22,7 @@ My primary interests revolve around `Open Source` and `Modern technologies`.
 <br>
 
 <p align="center">
-  <img src="https://readme.jonelson98.com/top-langs/?username=JoNelson98&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,php,html,css,jinja,smarty,mako,javascript,mustache,c,roff" align="center" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JoNelson98&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" align="center" />
   <img src="https://streak-stats.demolab.com?user=JoNelson98&theme=transparent&hide_border=true" alt="GitHub Streak" align="center" />
 </p>
-
-## <picture> <img src = "./public/projects.gif?raw=true" width = 70px > </picture> My Projects
-
-<br>
