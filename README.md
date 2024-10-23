@@ -23,6 +23,6 @@ My primary interests revolve around `Web Servers` and `Frontend animation`.
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JoNelson98&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoNelson98&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
   <img src="https://streak-stats.demolab.com?user=JoNelson98&theme=transparent&hide_border=true" alt="GitHub Streak" align="center" />
 </p>
