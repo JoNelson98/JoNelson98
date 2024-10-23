@@ -1,13 +1,13 @@
-## <picture><img src = "./Public/about_me.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About me
+## <picture><img src = "./public/about_me.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About me
 
-<picture> <img align="right" src="./Public/Right_Side.gif?raw=true" width = 150px></picture>
+<picture> <img align="right" src="./public/Right_Side.gif?raw=true" width = 150px></picture>
 
 <br>
 
 My primary interests revolve around `Open Source` and `Modern technologies`.
 <br> <br>
 
-## <picture> <img src = "./Public/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
+## <picture> <img src = "./public/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
 
 <br>
 
@@ -17,7 +17,7 @@ My primary interests revolve around `Open Source` and `Modern technologies`.
   </a>
 </p>
 
-## <picture> <img src = "./Public/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
+## <picture> <img src = "./public/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
 
 <br>
 
@@ -27,6 +27,6 @@ My primary interests revolve around `Open Source` and `Modern technologies`.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoNelson98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center"/>
 </p>
 
-## <picture> <img src = "./Public/projects.gif?raw=true" width = 70px > </picture> My Projects
+## <picture> <img src = "./public/projects.gif?raw=true" width = 70px > </picture> My Projects
 
 <br>
