@@ -4,7 +4,7 @@
 
 <br>
 
-My primary interests revolve around `Web Servers` and `Frontend animation`.
+Just an engineer that likes to imporove life quality with server rendering and cli.
 <br> <br>
 
 ## <picture> <img src = "./public/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
