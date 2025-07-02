@@ -8,7 +8,6 @@ Just an engineer that likes to imporove life quality with server rendering and c
 ## <picture> <img src = "./public/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
 
 <br>
-
 <p 
   style="
     display: flex;
@@ -45,11 +44,6 @@ Just an engineer that likes to imporove life quality with server rendering and c
     />
   </a>
 </p>
-
-
-
-
-
 
 ## <picture> <img src = "./public/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
 
