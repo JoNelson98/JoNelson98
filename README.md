@@ -8,25 +8,28 @@ Just an engineer that likes to imporove life quality with server rendering and c
 ## <picture> <img src = "./public/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
 
 <br>
+<h3 style="text-align: center;">Tech Stack</h3>
+
 <p 
   style="
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 8px;
-    margin: 0;
+    gap: 12px;
+    margin: 0 auto;
+    max-width: 100%;
   "
 >
   <a 
     href="https://skillicons.dev" 
     rel="nofollow" 
-    style="flex: 1 1 auto; max-width: 100%; text-align: center;"
+    style="flex: 1 1 auto; text-align: center;"
   >
     <img 
       src="https://skillicons.dev/icons?i=remix,js,ts,go,docker,postgres,vim&perline=8"
+      alt="Tech Icons"
       style="max-width: 100%; height: auto; display: inline-block;"
-      alt="Tech Stack"
     />
   </a>
 
@@ -44,6 +47,7 @@ Just an engineer that likes to imporove life quality with server rendering and c
     />
   </a>
 </p>
+
 
 ## <picture> <img src = "./public/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
 
