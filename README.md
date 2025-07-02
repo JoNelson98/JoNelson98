@@ -1,4 +1,4 @@
-## <picture><img src = "./public/about_me.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About me
+## <picture><img width="64" height="64" src="https://img.icons8.com/nolan/64/shopify.png" alt="shopify"/></picture> About me
 
 <picture> <img align="right" src="./public/Right_Side.gif?raw=true" width = 150px></picture>
 
