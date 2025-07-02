@@ -11,25 +11,33 @@ Just an engineer that likes to imporove life quality with server rendering and c
 
 <p 
   align="center" 
-  style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 4px;"
+  style="
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    flex-wrap: nowrap; 
+    overflow-x: auto;
+    gap: 8px;
+  "
 >
-  <a href="https://skillicons.dev" rel="nofollow" style="display: inline-block;">
+  <a href="https://skillicons.dev" rel="nofollow" style="flex-shrink: 1; max-width: 80%;">
     <img 
       src="https://skillicons.dev/icons?i=remix,js,ts,go,docker,postgres,vim&perline=8" 
-      style="vertical-align: middle; max-width: 100%; height: auto;" 
+      style="vertical-align: middle; width: 100%; height: auto;" 
     />
   </a>
 
-  <a href="https://shopify.dev" rel="nofollow" style="display: inline-block;">
+  <a href="https://shopify.dev" rel="nofollow" style="flex-shrink: 0;">
     <img 
-      width="50" 
-      height="50" 
+      width="40" 
+      height="40" 
       src="https://img.icons8.com/nolan/64/shopify.png" 
       alt="Shopify" 
       style="vertical-align: middle;" 
     />
   </a>
 </p>
+
 
 
 
