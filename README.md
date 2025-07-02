@@ -12,7 +12,7 @@ Just an engineer that likes to imporove life quality with server rendering and c
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=remix,js,ts,go,docker,postgres,vim,aws&perline=8" />
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/shopify.png" alt="shopify"/>
+    <img width="48" height="48" src="https://img.icons8.com/nolan/64/shopify.png" alt="shopify"/>
   </a>
 </p>
 
