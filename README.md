@@ -8,46 +8,27 @@ Just an engineer that likes to imporove life quality with server rendering and c
 ## <picture> <img src = "./public/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
 
 <br>
-<h3 style="text-align: center;">Tech Stack</h3>
-
-<p 
-  style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 12px;
-    margin: 0 auto;
-    max-width: 100%;
-  "
->
-  <a 
-    href="https://skillicons.dev" 
-    rel="nofollow" 
-    style="flex: 1 1 auto; text-align: center;"
-  >
-    <img 
-      src="https://skillicons.dev/icons?i=remix,js,ts,go,docker,postgres,vim&perline=8"
-      alt="Tech Icons"
-      style="max-width: 100%; height: auto; display: inline-block;"
-    />
-  </a>
-
-  <a 
-    href="https://shopify.dev" 
-    rel="nofollow" 
-    style="flex: 0 0 auto;"
-  >
-    <img 
-      src="https://img.icons8.com/nolan/64/shopify.png" 
-      alt="Shopify" 
-      width="48" 
-      height="48" 
-      style="display: inline-block;"
-    />
-  </a>
+<p align="center" style="white-space: nowrap;">
+  <span style="display: inline-block;">
+    <a href="https://skillicons.dev" rel="nofollow">
+      <img 
+        src="https://skillicons.dev/icons?i=remix,js,ts,go,docker,postgres,vim&perline=8" 
+        style="vertical-align: middle; max-width: 100%;" 
+      />
+    </a>
+  </span>
+  <span style="display: inline-block;">
+    <a href="https://shopify.dev" rel="nofollow">
+      <img 
+        width="50" 
+        height="50" 
+        src="https://img.icons8.com/nolan/64/shopify.png" 
+        alt="Shopify" 
+        style="vertical-align: middle; margin-left: 4px;" 
+      />
+    </a>
+  </span>
 </p>
-
 
 ## <picture> <img src = "./public/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
 
