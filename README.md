@@ -10,12 +10,23 @@ Just an engineer that likes to imporove life quality with server rendering and c
 <br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=remix,js,ts,go,docker,postgres,vim&perline=8" />
-    <img width="56" height="56" style="vertical-align: middle;" src="https://img.icons8.com/nolan/64/shopify.png" alt="shopify"/>
-
+  <a href="https://skillicons.dev" rel="nofollow">
+    <img 
+      src="https://skillicons.dev/icons?i=remix,js,ts,go,docker,postgres,vim&perline=8" 
+      style="vertical-align: middle;" 
+    />
+  </a>
+  <a href="https://shopify.dev" rel="nofollow">
+    <img 
+      width="48" 
+      height="48" 
+      src="https://img.icons8.com/nolan/64/shopify.png" 
+      alt="Shopify" 
+      style="vertical-align: middle; margin-left: 4px;" 
+    />
   </a>
 </p>
+
 
 ## <picture> <img src = "./public/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
 
