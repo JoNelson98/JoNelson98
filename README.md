@@ -9,27 +9,28 @@ Just an engineer that likes to imporove life quality with server rendering and c
 
 <br>
 
-<p align="center" style="white-space: nowrap;">
-  <span style="display: inline-block;">
-    <a href="https://skillicons.dev" rel="nofollow">
-      <img 
-        src="https://skillicons.dev/icons?i=remix,js,ts,go,docker,postgres,vim&perline=8" 
-        style="vertical-align: middle; max-width: 100%;" 
-      />
-    </a>
-  </span>
-  <span style="display: inline-block;">
-    <a href="https://shopify.dev" rel="nofollow">
-      <img 
-        width="50" 
-        height="50" 
-        src="https://img.icons8.com/nolan/64/shopify.png" 
-        alt="Shopify" 
-        style="vertical-align: middle; margin-left: 4px;" 
-      />
-    </a>
-  </span>
+<p 
+  align="center" 
+  style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 4px;"
+>
+  <a href="https://skillicons.dev" rel="nofollow" style="display: inline-block;">
+    <img 
+      src="https://skillicons.dev/icons?i=remix,js,ts,go,docker,postgres,vim&perline=8" 
+      style="vertical-align: middle; max-width: 100%; height: auto;" 
+    />
+  </a>
+
+  <a href="https://shopify.dev" rel="nofollow" style="display: inline-block;">
+    <img 
+      width="50" 
+      height="50" 
+      src="https://img.icons8.com/nolan/64/shopify.png" 
+      alt="Shopify" 
+      style="vertical-align: middle;" 
+    />
+  </a>
 </p>
+
 
 
 
