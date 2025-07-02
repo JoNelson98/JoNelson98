@@ -13,7 +13,7 @@ My primary interests revolve around `Web Servers` and `Frontend animation`.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,postgres,git,nextjs,js,ts,terraform,aws&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,docker,postgres,remix,js,ts,terraform,aws&perline=8" />
   </a>
 </p>
 
