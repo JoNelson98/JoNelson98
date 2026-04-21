@@ -12,7 +12,7 @@ Just an engineer that likes to use neovim and cli.
   <span style="display: inline-block;">
     <a href="https://skillicons.dev" rel="nofollow">
       <img 
-        src="https://skillicons.dev/icons?i=remix,js,ts,go,docker,postgres,vim&perline=8" 
+        src="https://skillicons.dev/icons?i=python,js,ts,go,docker,postgres,vim&perline=8" 
         style="vertical-align: middle; max-width: 100%;" 
       />
     </a>
