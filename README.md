@@ -2,7 +2,7 @@
 
 <br>
  
-Just an engineer that likes to imporove life quality with server rendering and cli.
+Just an engineer that likes to use neovim and cli.
 <br> <br>
 
 ## <picture> <img src = "./public/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
