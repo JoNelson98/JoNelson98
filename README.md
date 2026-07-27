@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ... 2019<br>📚 I'm currently learning ... TranStack<br>🎯 Goals: ... build an mcp server for imassage <br>🎲 Fun fact: ... i think im funny</p>
+<p data-importer="text" align="left">✨ Creating bugs since ... 2019<br>📚 I'm currently learning ... TranStack<br>🎯 Goals: ... build an mcp server for imessage <br>🎲 Fun fact: ... i think im funny</p>
 
 ###
 
