@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Jonathan and I'm a Software Developer from Dallas Tx.</p>
+<p data-importer="text" align="left">My name is Jonathan and I'm a Software Developer and Gopher from Dallas Tx.</p>
 
 ###
 
